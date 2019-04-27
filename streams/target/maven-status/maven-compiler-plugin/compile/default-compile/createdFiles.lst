@@ -1,0 +1,14 @@
+ua\procamp\streams\function\IntUnaryOperator.class
+ua\procamp\streams\function\IntToIntStreamFunction.class
+ua\procamp\streams\iterator_implementation\IntegerFlatMap.class
+ua\procamp\streams\function\IntPredicate.class
+ua\procamp\streams\iterator_implementation\IntegerArray.class
+ua\procamp\streams\iterator\IntegerIterator.class
+ua\procamp\streams\iterator_implementation\IntegerFilter.class
+ua\procamp\streams\function\IntConsumer.class
+ua\procamp\streams\stream\IntStream.class
+ua\procamp\streams\stream\AsIntStream$1.class
+ua\procamp\streams\iterator_implementation\IntegerMap.class
+ua\procamp\streams\function\IntBinaryOperator.class
+ua\procamp\streams\StreamApp.class
+ua\procamp\streams\stream\AsIntStream.class
